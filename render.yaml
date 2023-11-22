@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: deep-medi-checker
+    buildCommand: python3.10 -m pip install -r requirements.txt
+    startCommand: python3.10 main.py
