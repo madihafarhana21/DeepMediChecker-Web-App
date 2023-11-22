@@ -1,6 +1,6 @@
 db_config = {
     'host': 'localhost',
-    'database': 'project',
-    'user': 'root',
-    'password': 'root123#',
+    'database': 'your_project_database_here',
+    'user': 'your_username_here',
+    'password': 'your_username_password_here',
 }
